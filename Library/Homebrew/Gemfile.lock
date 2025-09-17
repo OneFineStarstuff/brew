@@ -57,7 +57,7 @@ GEM
     redcarpet (3.6.1)
     regexp_parser (2.10.0)
     require-hooks (0.2.2)
-    rexml (3.4.1)
+    rexml (3.4.2)
     rspec (3.13.1)
       rspec-core (~> 3.13.0)
       rspec-expectations (~> 3.13.0)
@@ -166,7 +166,6 @@ GEM
 
 PLATFORMS
   aarch64-linux
-  arm-linux
   arm64-darwin
   x86_64-darwin
   x86_64-linux
